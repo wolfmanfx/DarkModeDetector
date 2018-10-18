@@ -1,0 +1,16 @@
+{
+    "name": "at.coderabbit.darkmode",
+    "version": "0.0.1",
+    "description": "Detect if the ui should be presented in dark or light mode",
+    "cordova": {
+        "id": "at.coderabbit.darkmode",
+        "platforms": [
+            "android"
+        ]
+    },
+    "keywords": [
+        "ecosystem:cordova"
+    ],
+    "author": "CodeRabbit GmbH",
+    "license": "ISC"
+}
